@@ -36,6 +36,6 @@ Author
 
 Rashid Rayees
 
-B.Tech CSE Student
+B.Tech IT Student
 Frontend Development Enthusiast
 Learning Web Development and Software Engineering
