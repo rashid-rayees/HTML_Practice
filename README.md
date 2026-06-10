@@ -16,8 +16,9 @@ Semantic HTML
 Audio and Video Tags
 HTML5 Features
 Folder Structure
-HTML_Practice/
-│
+
+HTML_Practice
+
 ├── Basics/
 ├── Forms/
 ├── Tables/
