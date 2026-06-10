@@ -17,16 +17,6 @@ Audio and Video Tags
 HTML5 Features
 Folder Structure
 
-HTML_Practice
-
-├── Basics/
-├── Forms/
-├── Tables/
-├── Media/
-├── Semantic_HTML/
-└── Projects/
-Purpose
-
 The purpose of this repository is to:
 
 Learn and practice HTML concepts.
